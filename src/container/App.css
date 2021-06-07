@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'robot';
-  src: url(./assets/fonts/robot.ttf);
+  src: url(../assets/fonts/robot.ttf);
 }
 h1{
   font-family: 'robot';
